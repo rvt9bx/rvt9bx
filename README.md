@@ -1,6 +1,6 @@
 # Eleanor Byrd
 
-I'm a Master’s student in **Data Science and Analytics** at Georgetown University with a passion for applying **machine learning, statistical modeling, and data analysis** to solve real-world problems. 
+I'm a Master’s student in **Data Science and Analytics** at Georgetown University with a passion for applying **machine learning, statistical modeling, data engineering, and data analysis** to solve real-world problems. 
 
 ---
 
