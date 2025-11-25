@@ -16,6 +16,12 @@ I'm a Master’s student in **Data Science and Analytics** at Georgetown Univers
 - **Artist Representation in MoMA's Collection**  
   Developed visualizations to illustrate the distribution of artworks per country of artist nationality in the collection of the Museum of Modern Art, highlighting trends and disparities in representation, using **R, ggplot2, and gganimate**.  
   [Project Repo](https://github.com/rvt9bx/DS2003midterm)
+
+### In the Works 
+- **Movie Co-Acting Network Analysis and Link Prediction**
+- **Global Statistical Analysis of Sentiment and Bias in News Headlines**
+- **Airline Delay Analysis with SQL**
+
 ---
 
 ## Skills
