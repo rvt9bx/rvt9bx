@@ -48,7 +48,8 @@ Analyzed 4M+ global news headlines using **NLP, statistical inference, and time 
 ---
 
 ## Fun Facts 
-Outside of data, I am a lifelong dancer and choreographer, experiences that have strengthened my creativity, discipline, collaboration, and leadership.
+Outside of data, I am a lifelong dancer and choreographer, experiences that have strengthened my creativity, discipline, collaboration, and leadership.  
+[![Spring Concert Promo](https://img.shields.io/badge/Spring%20Dance%20Concert%20Promo-project?style=for-the-badge&labelColor=4B1E6D&color=FF9ACD)](https://youtu.be/8pWc23HuE3A?si=yitFOObHpFylDY8R)
 
 ---
 
